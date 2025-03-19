@@ -8,3 +8,7 @@
 text = 'Eulerian Multiphase Flow'
 print(text)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
